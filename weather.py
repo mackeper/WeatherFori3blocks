@@ -1,5 +1,8 @@
 #!/usr/bin/python
 # Weather script for i3blocks, data taken from yr.no
+#
+#«Weather forecast from Yr,
+#  delivered by the Norwegian Meteorological Institute and NRK#»
 
 import urllib.request
 import xml.etree.ElementTree as ET
