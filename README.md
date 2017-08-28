@@ -10,6 +10,9 @@ command=/path/to/weather.py
 interval=1800
 color=#e97ac8
 ```
+## Symbols
+I used the symbols from
+[kumarcode icons](http://kumarcode.com/resources/icons.ttf)
 
 ## Credits
 [«Weather forecast from Yr, delivered by the Norwegian Meteorological Institute and NRK»](https://www.yr.no/place/Sweden/Stockholm/Stockholm/)
